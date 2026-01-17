@@ -6,5 +6,4 @@ elif year % 100 == 0:
 elif year % 4 == 0:
     print("Високосный год")
 else:
-    print("Обычный год"
-          
+    print("Обычный год")
